@@ -1,9 +1,9 @@
 {
-    "name": "bingooo/laravel-submail",
+    "name": "phper666/laravel-submail",
     "license": "MIT",
     "authors": [
         {
-            "name": "bingooo"
+            "name": "phper666"
         }
     ],
     "keywords": [
@@ -12,7 +12,6 @@
     ],
     "require": {
         "php": ">=5.5.0",
-        "illuminate/support": "5.1.*",
         "guzzlehttp/guzzle": "^6.1"
     },
     "autoload": {
